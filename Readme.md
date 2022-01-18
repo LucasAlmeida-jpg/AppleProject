@@ -1,12 +1,12 @@
 # Landing Page - Apple
 - Este projeto foi desenvolvido em HTML, CSS e Javascript. 
 
-<img
+ <img
                 src="https://img.icons8.com/html"
-              />
+              /> <br>
               <img
                 src="https://img.icons8.com/css"
-              />
+              /><br>
               <img
                 src="https://img.icons8.com/javascript"
               />
