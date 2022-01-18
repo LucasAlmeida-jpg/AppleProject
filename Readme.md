@@ -1,3 +1,2 @@
 # Github
-- Git init 
-- Git add
+- Este projeto foi desenvolvido em HTML, CSS e Javascript. 
